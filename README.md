@@ -1,1 +1,6 @@
-# StarBucks-fancy-Landing-page
+# StarBucks Landingpage
+#### using
+- Html
+- Javascript
+- CSS
+  - Not responsive
